@@ -5,7 +5,7 @@ It does, however, show my most recent work and current capabilities fairly accur
 
 ### [CodeWars Problems Ive Solved](https://github.com/Robert-Pond/CodeWars)
 
-### Projects Ive Built
+### [Projects Ive Built](https://github.com/Robert-Pond/Inventory-Control)
 
 ### [Learning Im Working on](https://github.com/Robert-Pond/CS50)
 
